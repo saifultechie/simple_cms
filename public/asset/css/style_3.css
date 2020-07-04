@@ -1,0 +1,26 @@
+.leftside,.rightside{
+	height: 100vh;
+	width: 100%;
+}
+
+.leftside{
+	background: #ddd;
+
+}
+
+.rightside{
+	background: #ddd;
+}
+
+.video_content {
+	position: relative;
+}
+
+.video_content i {
+	position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 10px;
+    background: #efefef;
+    border: 1px solid #c7c7c7;
+}
